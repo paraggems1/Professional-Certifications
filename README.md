@@ -50,6 +50,6 @@ Welcome to my verified portfolio of technical certifications. This repository se
 
 ## 🔗 Connect With Me
 * [LinkedIn Profile](https://linkedin.com/in/parag-sonawane-a128231ba/)
-* [YouTube - Paraggems Decoder](https://www.youtube.com/channel/UCVrgigVeDiFkBNHbtcLL5iw)
+* [YouTube - Paraggems Decoder]([https://www.youtube.com/channel/UCVrgigVeDiFkBNHbtcLL5iw](https://youtube.com/@paraggemsdecoder5797?si=O1mlpqag8DoYX3Ck))
 
 ---
