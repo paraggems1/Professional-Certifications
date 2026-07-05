@@ -2,6 +2,13 @@
 
 Welcome to my verified portfolio of technical certifications. This repository serves as a centralized record of my professional development in Data Engineering, Machine Learning, and Data Analytics.
 
+## 🔗 Connect With Me
+* [LinkedIn Profile](https://linkedin.com/in/parag-sonawane-a128231ba/)
+* [YouTube - Paraggems Decoder](https://youtube.com/@paraggemsdecoder5797?si=O1mlpqag8DoYX3Ck)
+
+---
+
+
 ---
 
 ## 📜 Certification Timeline
@@ -45,11 +52,5 @@ Welcome to my verified portfolio of technical certifications. This repository se
 
 ### 8. Python with Data Science (2020)
 ![Technogeeks](assets/2020-Python-With-DataScience-Technogeeks.jpg)
-
----
-
-## 🔗 Connect With Me
-* [LinkedIn Profile](https://linkedin.com/in/parag-sonawane-a128231ba/)
-* [YouTube - Paraggems Decoder](https://youtube.com/@paraggemsdecoder5797?si=O1mlpqag8DoYX3Ck)
 
 ---
